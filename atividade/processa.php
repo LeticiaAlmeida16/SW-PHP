@@ -3,7 +3,7 @@
     $login = $_POST['login'];
     $senha = $_POST['senha'];
 
-    if($login == "leticia2008" && $senha == 12345678){
+    if($login == "leticiaalmeida@gmail.com" && $senha == 12345678){
         echo "Seja bem-vindo, $nome";
     }
     else{
