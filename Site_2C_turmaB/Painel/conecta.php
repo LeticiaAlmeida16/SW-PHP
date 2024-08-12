@@ -10,9 +10,5 @@
     if(mysqli_connect_errno()){
         echo "ERRO DE CONEXÃO";
     }
-/*     else{
-        echo "CONECTADO AO BANCO COM SUCESSO";
-    } */
-
 
 ?>
